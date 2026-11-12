@@ -1,0 +1,10 @@
+﻿交易编号,文件名称,适用情况,负责人,状态,文件日期,文件位置/链接,备注
+,采购订单 Purchase Order,按交易需要,,待准备,,,
+,销售合同 Sales Contract,按交易需要,,待准备,,,
+,商业发票 Commercial Invoice,出口/进口交易按要求,,待准备,,,
+,装箱单 Packing List,货运/清关按要求,,待准备,,,
+,提单/空运单 Bill of Lading/Air Waybill,按运输方式,,待准备,,,
+,原产地证明 Certificate of Origin,按目的地规则及客户要求,,待确认,,,
+,保险凭证 Insurance Certificate,按合同及运输安排,,待确认,,,
+,报关/清关文件 Customs Documents,按进出口地法规,,待确认,,,
+,产品合规/检测证书,按商品类别及市场法规,,待确认,,,
